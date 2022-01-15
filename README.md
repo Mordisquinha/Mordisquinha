@@ -6,7 +6,7 @@ Hi there, i'm Gabriel Santiago Physics student in UFRJ and python developer
 </div>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Python-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="My-gif" height="150" style="border-radius:50px;" src="https://discord.com/channels/922162196287471617/922164420086476821/931722763926929409">
+  <img align="right" alt="My-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/922164420086476821/931722763998228480/Design_sem_nome.gif">
 </div>
   
   ##
