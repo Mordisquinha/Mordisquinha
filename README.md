@@ -24,11 +24,14 @@ Hi there, i'm Gabriel Santiago Data Engginer Jr at Bix Tech
 </div>
   
   ##
- 
-<div> 
+  <div>
+    <a href="https://www.bixtecnologia.com.br/sobre-nos/" target="_blank"><img src="https://www.bixtecnologia.com.br/wp-content/bix/logo.png" target="_blank"></a>
+  </div>
+  
+<div>
   <a href="https://instagram.com/gabriessga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.santiago@bix-tech.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-santiago-005874228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://chatwith.io/s/gabriel-santiago" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- 
 </div>
+
