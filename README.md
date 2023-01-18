@@ -4,7 +4,7 @@
 
 ##
 <div>
-  Hi there, i'm Gabriel Santiago Data Engginer Jr at Bix Tech <br>
+  Hi there, i'm Gabriel Santiago Data Engginer at Bix Tech <br>
 </div>  <br>
 
 <div align="center">
