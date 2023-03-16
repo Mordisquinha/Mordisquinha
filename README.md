@@ -1,5 +1,5 @@
 <div>
-  <a href="https://jbfdigital.com.br/" target="_blank"><img align="center" height="30" width="40" src="https://app.jbfdigital.com.br/img/logo-jbf-branco.1412ae4e.png" target="_blank"></a>
+  <a href="https://jbfdigital.com.br/" target="_blank"><img align="center" height="100" width="250" src="https://app.jbfdigital.com.br/img/logo-jbf-branco.1412ae4e.png" target="_blank"></a>
 </div>  
 
 ##
