@@ -1,5 +1,5 @@
 <div>
-  <a href="https://www.bixtecnologia.com.br/sobre-nos/" target="_blank"><img src="https://www.bixtecnologia.com.br/wp-content/bix/logo.png" target="_blank"></a>
+  <a href="https://jbfdigital.com.br/" target="_blank"><img src="https://app.jbfdigital.com.br/img/logo-jbf-branco.1412ae4e.png" target="_blank"></a>
 </div>  
 
 ##
